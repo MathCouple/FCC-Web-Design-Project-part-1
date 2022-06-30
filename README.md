@@ -1,12 +1,6 @@
-# ///////////////#.ALVES/////////HACKERHANK////////////////////////////
+# FCC-Web-Design-Project-part-1
+Page created using HTML and CSS to the first project of Responsive Web Design Bootcamp (300h). 
 
-# Revising the Select Query I
+Please, to see this work running in your browser, acess: 
+https://codepen.io/mathcouple/pen/XWZdogW
 
-# Solution in MySQL - Score 10/10
-
-Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
-
-The CITY table is described as follows:
-https://s3.amazonaws.com/hr-challenge-images/8137/1449729804-f21d187d0f-CITY.jpg
-
-hackerhankpracticing
